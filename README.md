@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+@@ -1 +1,3 @@
+# Test
+# Test
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushbajpai19&show_icons=true&hide_border=true&icon_color=7348B7&title_color=7348B7)
