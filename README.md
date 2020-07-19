@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushbajpai19&show_icons=true&hide_border=true&icon_color=7348B7&title_color=000000)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushbajpai19&show_icons=true&hide_border=true&icon_color=7348B7&title_color=FF0000)
 
 ![alt text](https://github.com/Ayushbajpai19/Ayushbajpai19/blob/master/dino.gif?raw=true)
-!(https://github-readme-stats.vercel.app/api?username=Ayushbajpai19&show_icons=true&theme=radical)
+
