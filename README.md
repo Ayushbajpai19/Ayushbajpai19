@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Web Development
-- 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ... Frontend
-- 🤔 I’m looking for help with ... React
+- 🔭 I’m currently working on ... UI/UX
+- 🌱 I’m currently learning ... Flutter
+- 👯 I’m looking to collaborate on ... having fun
+- 🤔 I’m looking for help with ... finding good coffee
 - 💬 Ask me about ... Web Dev, Photography, Graphic Designing, Blogging, Entrepreneurship
 
 -->
