@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... UI/UX
-- 🌱 I’m currently learning ... Flutter
+- 🔭 I’m currently working on ... Backend Engineering
+- 🌱 I’m currently learning ... DevOps
 - 👯 I’m looking to collaborate on ... having fun
 - 🤔 I’m looking for help with ... finding good coffee
-- 💬 Ask me about ... Web Dev, Photography, Graphic Designing, Blogging, Entrepreneurship
+- 💬 Ask me about ... Web Dev, Photography, Graphic Designing, Entrepreneurship
 
 -->
 
@@ -20,7 +20,7 @@ I'm a 20 year old engineer from India and I'm passionate about empowering people
 ### To know a little more about me...
 -
 - 👥 LinkedIn: [/ayushbajpai](https://www.linkedin.com/in/ayush-bajpai-7a936a191/)
-- 👨‍💻 Blogs/Writings: [Medium Profile](https://medium.com/@ayush10055)
+- 👨‍💻 Blogs/Writings: [Medium Profile](https://medium.com/@1749)
 
 - 🥑 Looking for: Opportunities in Developer Relations
 
