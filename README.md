@@ -26,8 +26,3 @@ I'm a 20 year old engineer from India and I'm passionate about empowering people
 
 - 🕵️‍♂️ More ways to connect: [Ayush Bajpai](https://ayushbajpai.netlify.app/)
 
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushbajpai19&show_icons=true&hide_border=true&icon_color=7348B7&title_color=FF0000)
-
-![alt text](https://github.com/Ayushbajpai19/Ayushbajpai19/blob/master/dino.gif?raw=true)
-
